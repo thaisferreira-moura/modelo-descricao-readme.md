@@ -2,7 +2,7 @@
 <h1 align="center"> 
 	🚧 {Nome do repositório} - Em contrução 🚧
 </h1> 
-
+ 
 <!-- ---------------------------------------------------------------------- -->
 
 <!-- MODELO PROJETO FINALIZADO -->
